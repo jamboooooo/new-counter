@@ -1,0 +1,27 @@
+.main {
+    width: 250px;
+    margin: auto;
+}
+
+.counter-block {
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+}
+
+.counter-block button {
+    margin-bottom: 20px;
+    width: 90px;
+}
+
+h1 {
+    font-size: 65px;
+    margin: 0;
+    padding: 0;
+    color: blue;
+}
+
+.btns button {
+    width: 100%;
+    margin-bottom: 10px;
+}
